@@ -2,7 +2,9 @@
 Data Repository
 ==========================================================
 Source code and data files for the manuscript Antiferromagnetic Excitonic Insulator State in Sr3Ir2O7. Execute plot.ipynb to view the data.
-[![DOI](https://zenodo.org/badge/364675326.svg)](https://zenodo.org/badge/latestdoi/364675326)
+
+.. image:: https://zenodo.org/badge/364675326.svg
+   :target: https://zenodo.org/badge/latestdoi/364675326
 
 How to cite
 -----------

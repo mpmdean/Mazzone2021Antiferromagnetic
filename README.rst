@@ -27,4 +27,6 @@ Change `tree` to `lab` in the URL for JupyterLab.
 Run remotely
 ------------
 
-Launch binder button
+
+.. image:: https://mybinder.org/badge_logo.svg
+ :target: https://mybinder.org/v2/gh/mpmdean/Mazzone2021Antiferromagnetic/HEAD?filepath=plot.ipynb

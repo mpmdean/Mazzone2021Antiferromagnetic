@@ -18,7 +18,7 @@ lmfit==1.0.3
     # via -r requirements.in
 matplotlib==3.3.2
     # via -r requirements.in
-numpy==1.18.4
+numpy==1.21.5
     # via
     #   -r requirements.in
     #   lmfit
